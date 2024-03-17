@@ -36,6 +36,6 @@ The core objective of this project was to meticulously analyze Amazon's sales da
 * Analysis Depth: The depth of my analysis was measured by how thoroughly I explored the dataset and the insights I derived from it.
 * Visualization Impact: The effectiveness of my visualizations was gauged by their clarity, ability to convey insights, and the overall impact on the audience.
 Submission 
-The Python code was meticulously documented and compiled into a PDF file, demonstrating the thoroughness of my analysis.
-I compiled a detailed project report, encapsulating the entire process from data extraction to final insights, underscoring the methodologies adopted and the conclusions drawn.
-Through this project, I aimed to shed light on the complexities of Amazon's sales dynamics, offering a data-driven perspective to inform strategic initiatives within the e-commerce space.
+* The Python code was meticulously documented and compiled into a PDF file, demonstrating the thoroughness of my analysis.
+* I compiled a detailed project report, encapsulating the entire process from data extraction to final insights, underscoring the methodologies adopted and the conclusions drawn.
+* Through this project, I aimed to shed light on the complexities of Amazon's sales dynamics, offering a data-driven perspective to inform strategic initiatives within the e-commerce space.
