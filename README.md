@@ -18,9 +18,16 @@ The core objective of this project was to meticulously analyze Amazon's sales da
 * The dataset, accessible through a provided link, served as the foundation for my analysis, offering a rich array of sales-related information to explore and interpret.
 
 **Visulisations**
+<img width="1009" alt="Screenshot 2024-03-17 at 6 50 09 AM" src="https://github.com/hritvikgupta/Amazon-Sales-Data-Analysis/assets/60143996/fbaba6c1-f9d7-49d6-8431-937084e6ee1d">
+
+<img width="1015" alt="Screenshot 2024-03-17 at 6 50 00 AM" src="https://github.com/hritvikgupta/Amazon-Sales-Data-Analysis/assets/60143996/543d83be-7bc3-4fdc-b7d3-e0b4caa5e3fc">
+
 <img width="937" alt="Screenshot 2024-03-17 at 6 17 44 AM" src="https://github.com/hritvikgupta/Amazon-Sales-Data-Analysis/assets/60143996/857609a0-c7d2-4bf3-9042-7fab0cb9cd22">
+
 <img width="890" alt="Screenshot 2024-03-17 at 6 17 33 AM" src="https://github.com/hritvikgupta/Amazon-Sales-Data-Analysis/assets/60143996/70b8d7bb-782b-4a14-a767-ec657be419fb">
+
 <img width="938" alt="Screenshot 2024-03-17 at 6 17 24 AM" src="https://github.com/hritvikgupta/Amazon-Sales-Data-Analysis/assets/60143996/18b79cfc-5ad1-4938-9934-a981a80850a1">
+
 <img width="929" alt="Screenshot 2024-03-17 at 6 17 14 AM" src="https://github.com/hritvikgupta/Amazon-Sales-Data-Analysis/assets/60143996/1eb50928-5b28-4c10-a2e7-e40a2a1a9b56">
 
 
