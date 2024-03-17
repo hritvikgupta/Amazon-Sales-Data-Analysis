@@ -24,9 +24,6 @@ The core objective of this project was to meticulously analyze Amazon's sales da
 <img width="929" alt="Screenshot 2024-03-17 at 6 17 14 AM" src="https://github.com/hritvikgupta/Amazon-Sales-Data-Analysis/assets/60143996/1eb50928-5b28-4c10-a2e7-e40a2a1a9b56">
 
 
-**Approaches**
-* I adopted a flexible approach, harnessing Python for data analysis, while using Tableau and Power BI for visualization purposes. This eclectic use of tools enabled a multifaceted analysis, fostering a deep understanding of the dataset.
-
 **Project Evaluation Metrics**
 * Code Quality: I ensured that my code was modular, reliable, testable, maintainable, and portable across different environments.
 * Analysis Depth: The depth of my analysis was measured by how thoroughly I explored the dataset and the insights I derived from it.
